@@ -2,7 +2,7 @@
 - 👀 I’m interested in All sorts of technology , especially Android And its peripheries
 - 🌱 I’m currently learning Android Development 
 - 💞️ I’m looking to collaborate/intern on Web or Android projects
-- 📫 How to reach me: via email syedatifali25802gmail.com 
+- 📫 How to reach me: via email syedatifali2580@gmail.com | syedatifali.ad@gmail.com
 - ✨ check out some of my live projects and let me know what you think about them:
 - https://play.google.com/store/apps/details?id=com.yoga.android.yoga
 - https://play.google.com/store/apps/details?id=com.revaliation.android.news 
